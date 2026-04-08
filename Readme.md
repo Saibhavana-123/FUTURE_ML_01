@@ -1,4 +1,3 @@
-
 Sales Forecasting using Machine Learning
 
 📖 Project Description
@@ -9,6 +8,7 @@ This project focuses on predicting future sales using historical data from a ret
 Predict future sales based on past data
 Analyze trends and patterns in sales
 Provide insights for business decision-making
+
 📁 Dataset
 
 The dataset used is the Superstore Sales Dataset.
